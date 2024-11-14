@@ -4,7 +4,7 @@ using MainPage;
 
 namespace Calcool;
 
-static class Program
+public class Program
 {
     [STAThread]
     static void Main()
